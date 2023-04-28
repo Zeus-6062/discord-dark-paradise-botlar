@@ -1,5 +1,4 @@
 # discord-dark-paradise-botlar
-Dark Paradise Owsla Bütün Botlar
 
 Herkese Selam Ben Zeus Dark Paradise Sunucusunda Kullanılan Botlar Şu Şekildedir;
 
